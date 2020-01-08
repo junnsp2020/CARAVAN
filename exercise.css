@@ -41,7 +41,6 @@ main{
   background-size: cover;
   background-position: bottom;
 }
-
 .step-img3{
   height: 150px;
   background-image: url(img/flow03.png);
@@ -59,3 +58,16 @@ main{
   color: #fff;
   padding: 3px;
 }
+@media screen and (max-width:768px){
+.step-box{
+  float: none;
+}
+
+
+
+
+
+
+
+
+
