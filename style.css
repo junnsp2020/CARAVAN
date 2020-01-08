@@ -7,7 +7,6 @@
 a{
 	text-decoration: none;
 }
-/*clearfixを追加*/
 .clearfix::after{
 	content:"";
 	display: block;

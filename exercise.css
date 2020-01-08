@@ -48,7 +48,9 @@ main{
   background-size: cover;
   background-position: bottom;
 }
-
+.title{
+  margin: 15px 0 5px;
+}
 .step-num{
   position: absolute;
   top: 0;
@@ -56,8 +58,4 @@ main{
   background-color: #FF9A4B;
   color: #fff;
   padding: 3px;
-}
-
-.title{
-  margin: 15px 0 5px;
 }
