@@ -61,7 +61,18 @@ main{
 @media screen and (max-width:768px){
 .step-box{
   float: none;
+  width:90%;
 }
+.step-box:nth-child(2),
+.step-box:nth-child(3){
+  margin-top: 20px;
+}
+main{
+  width:100%;
+  margin: 50px auto;
+  }}
+
+
 
 
 
